@@ -1,4 +1,6 @@
 # Examen Final Base de Datos
 
-Nombre: Pablo Daniel Fernández Quintela
-Código: 46144
+#Nombre: 
+Pablo Daniel Fernández Quintela
+#Código:
+46144
